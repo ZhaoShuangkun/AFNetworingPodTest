@@ -1,0 +1,6 @@
+framework module ZSKUITools {
+  umbrella header "ZSKUITools-umbrella.h"
+
+  export *
+  module * { export * }
+}

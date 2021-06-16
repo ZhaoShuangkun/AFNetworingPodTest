@@ -1,0 +1,22 @@
+{
+  "name": "ZSKUITools",
+  "version": "0.1.0",
+  "summary": "A short description of ZSKUITools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZhaoShuangkun/ZSKUITools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZhaoShuangkun": "13052505082@163.com"
+  },
+  "source": {
+    "git": "https://github.com/ZhaoShuangkun/ZSKUITools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZSKUITools/Classes/**/*"
+}

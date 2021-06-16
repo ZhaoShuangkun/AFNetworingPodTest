@@ -1,0 +1,16 @@
+PODS:
+  - ZSKUITools (0.1.0)
+
+DEPENDENCIES:
+  - ZSKUITools (from `../`)
+
+EXTERNAL SOURCES:
+  ZSKUITools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZSKUITools: ba8474a7e5de52bee7bfde0ae12449e821947cb8
+
+PODFILE CHECKSUM: 1f5859cc2fa17f62dd98a69daefe6c464b980d19
+
+COCOAPODS: 1.10.0
